@@ -1,3 +1,3 @@
 document.querySelector('#app').innerHTML = `
-  <h1>Hello APOD!</h1>
+  <h1>Test!</h1>
 `
