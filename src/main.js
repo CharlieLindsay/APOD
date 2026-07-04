@@ -1,6 +1,3 @@
-document.querySelector('#app').innerHTML = `
-  <h1>Test!</h1>
-`
 const API_KEY = import.meta.env.VITE_NASA_API_KEY;
 
 document.querySelector("#app").innerHTML = "<p>loading...</p>";
